@@ -8,8 +8,8 @@ local IMAGES = {
 	Platform       = "rbxassetid://76972468777364", -- Ícone do Boneco Andando
 	Noclip         = "rbxassetid://98420974187836", -- Ícone do Boneco com Setas (Noclip)
 	Lighting       = "rbxassetid://85668660868187", -- Ícone do Sol (Brilho)
-	Position       = "rbxassetid://100387135657678", -- Ícone do Mapa
-	ResizeIcon     = "rbxassetid://7317540608" -- Ícone do triângulo padrão (pode manter)
+	Position       = "rbxassetid://93185570035905", -- Ícone do Mapa
+	ResizeIcon     = "rbxassetid://0" -- Ícone do triângulo padrão (pode manter)
 }
 
 -- [ CORES E TEMAS ]
