@@ -2,13 +2,13 @@
 -- [ CONFIGURAÇÃO DE IMAGENS (COLOQUE SEUS IDS AQUI) ]
 -- ========================================================================= --
 local IMAGES = {
-	BotaoFlutuante = "rbxassetid://0", -- Ícone da engrenagem/logo flutuante
-	FreeCam        = "rbxassetid://0", -- Ícone da Câmera
-	Teleport       = "rbxassetid://0", -- Ícone do Pino de Localização
-	Platform       = "rbxassetid://0", -- Ícone do Boneco Andando
-	Noclip         = "rbxassetid://0", -- Ícone do Boneco com Setas (Noclip)
-	Lighting       = "rbxassetid://0", -- Ícone do Sol (Brilho)
-	Position       = "rbxassetid://0", -- Ícone do Mapa
+	BotaoFlutuante = "rbxassetid://79683395505946", -- Ícone da engrenagem/logo flutuante
+	FreeCam        = "rbxassetid://120649516213888", -- Ícone da Câmera
+	Teleport       = "rbxassetid://93185570035905", -- Ícone do Pino de Localização
+	Platform       = "rbxassetid://76972468777364", -- Ícone do Boneco Andando
+	Noclip         = "rbxassetid://98420974187836", -- Ícone do Boneco com Setas (Noclip)
+	Lighting       = "rbxassetid://85668660868187", -- Ícone do Sol (Brilho)
+	Position       = "rbxassetid://100387135657678", -- Ícone do Mapa
 	ResizeIcon     = "rbxassetid://7317540608" -- Ícone do triângulo padrão (pode manter)
 }
 
